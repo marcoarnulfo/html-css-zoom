@@ -1,0 +1,40 @@
+
+/* #region utility  */
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+:root{
+    --sfondo: #000000;
+    --footer: #222222;
+    --right_footer: #4A4A4A;
+    --icon_footer: #4BC800;
+    --sfondo_pincopallo: #64707A;
+    --meeting: #E52623;
+    --light: #FFFFFF;
+}
+
+body{
+    background-color: var(--sfondo);
+    width: 100vw;
+    height: 100vh;
+}
+
+/* #endregion utility */
+
+
+
+/* #region header  */
+
+/* #endregion header  */
+
+/* #region main  */
+
+/* #endregion main  */
+
+/* #region footer  */
+
+/* #endregion footer  */
