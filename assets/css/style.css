@@ -137,4 +137,70 @@ img{
 
 /* #region footer  */
 
+.flex{
+    display: flex;
+    justify-content: space-between; 
+}
+
+
+.container_footer{
+    background-color: var(--footer);
+    margin-top: 25px;
+}
+
+.left, .middle{
+    margin-top: 15px;
+}
+
+.middle{
+    text-align: center;
+
+}
+
+footer i {
+    font-size: 30px;
+}
+
+.fa-microphone{
+    margin-left: 1.4rem;
+}
+
+.fa-video{
+    margin-left: 2.2rem;
+}
+
+.fa-user-plus{
+    margin-left: 1.8rem;
+}
+
+.fa-chart-column, .fa-comment, .fa-record-vinyl {
+    margin-left: 1.2rem;
+}
+
+.fa-share-from-square{
+    color: var(--icon_footer);
+    margin-left: 1.2rem;
+}
+
+
+.fa-ellipsis{
+    margin-left: 1rem;
+}
+
+.description{
+    margin-left: 1rem;
+    margin-top: 0.4rem;
+}
+
+.up{
+    margin: 1.5rem;
+}
+
+
+.meeting{
+    color: var(--meeting);
+    background-color: var(--right_footer);
+    padding: 2rem;
+}
+
 /* #endregion footer  */
